@@ -1,9 +1,5 @@
 clase 1
-
 clase 2
-
 clase 3
-
-
-clase 2 y 3 y 4
+clase 4
 
